@@ -127,11 +127,11 @@ a:hover {
 }
 
 .hero {
-  display: grid;
-  grid-template-columns: 240px minmax(0, 1fr);
+  display: block;
+  /*grid-template-columns: 240px minmax(0, 1fr);
   gap: 44px;
   align-items: center;
-  min-height: calc(100vh - 150px);
+  min-height: calc(100vh - 150px);*/
 }
 
 .portrait-wrap {
