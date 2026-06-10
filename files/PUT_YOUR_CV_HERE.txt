@@ -1,0 +1,2 @@
+Put your CV PDF in this folder and rename it to cv.pdf.
+Then the CV button in index.html will work automatically.
